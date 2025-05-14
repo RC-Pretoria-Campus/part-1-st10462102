@@ -1,0 +1,19 @@
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\bin\Debug\net8.0\Ask A Bot.exe
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\bin\Debug\net8.0\Ask A Bot.deps.json
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\bin\Debug\net8.0\Ask A Bot.runtimeconfig.json
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\bin\Debug\net8.0\Ask A Bot.dll
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\bin\Debug\net8.0\Ask A Bot.pdb
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\obj\Debug\net8.0\Ask A Bot.csproj.AssemblyReference.cache
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\obj\Debug\net8.0\Ask A Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\obj\Debug\net8.0\Ask A Bot.AssemblyInfoInputs.cache
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\obj\Debug\net8.0\Ask A Bot.AssemblyInfo.cs
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\obj\Debug\net8.0\Ask A Bot.csproj.CoreCompileInputs.cache
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\obj\Debug\net8.0\Ask A Bot.csproj.Up2Date
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\obj\Debug\net8.0\Ask A Bot.dll
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\obj\Debug\net8.0\refint\Ask A Bot.dll
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\obj\Debug\net8.0\Ask A Bot.pdb
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\obj\Debug\net8.0\Ask A Bot.genruntimeconfig.cache
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\obj\Debug\net8.0\ref\Ask A Bot.dll
+C:\Users\ayask\OneDrive\Desktop\Cyber ChatBot\Ask A Bot\bin\Debug\net8.0\greeting.wav
